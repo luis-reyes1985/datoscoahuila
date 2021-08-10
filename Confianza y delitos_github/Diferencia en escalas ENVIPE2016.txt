@@ -1,0 +1,13 @@
+En la ENVIPE 2016 se comenzó a probar las mediciones de confianza y efectividad con otra escala de respuestas:
+Mucha confianza, algo de confianza, algo de desconfianza y mucha desconfianza.
+
+La anterior medición de confianza (mucho, algo, poco o nada) también fue incluida en ENVIPE 2016, y se nota una ligera
+diferencia entre la proporción de la nueva medición y la proporción de la medición anterior. Por ejemplo, en torno 
+a las percepciones sobre la policía estatal un 57.5% reportó mucho o algo de confianza (en la nueva medición), 
+y un 56.8% de mucho o algo de confianza (en la anterior medición). 
+
+Total = 454
+Mucho o algo = 258
+Proporción = 258/454 = 56.8%
+
+
